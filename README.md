@@ -1,4 +1,4 @@
-# Password Strength Analyzer
+# Advanced Password Security Analyzer
 
 ### 🔐 Overview
 This project is a professional web-based tool designed to evaluate password strength and detect if a password has been leaked in known data breaches. It helps users understand the mathematical security of their credentials.
