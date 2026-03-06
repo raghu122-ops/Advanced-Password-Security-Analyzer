@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Password Security Analyzer</title>
+
+<link rel="stylesheet" href="/static/style.css">
+
+</head>
+
+<body>
+
+<div class="box">
+
+<h1>🔐 Password Security Analyzer</h1>
+
+<input type="password" id="password" placeholder="Enter your password">
+
+<br><br>
+
+<button onclick="checkPassword()">Check Password</button>
+
+<div id="result">
+
+<p><b>Strength:</b> <span id="strength"></span></p>
+
+<p><b>Entropy:</b> <span id="entropy"></span></p>
+
+<p><b>Crack Time:</b> <span id="time"></span></p>
+
+<p><b>Breach Status:</b> <span id="breach"></span></p>
+
+<p><b>Suggestions:</b></p>
+
+<ul id="suggestions"></ul>
+
+</div>
+
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+</html>
