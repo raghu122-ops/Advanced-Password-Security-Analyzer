@@ -1,4 +1,4 @@
-# Project Report: Password Security Analyzer
+# Project Report: Password Strength Analyzer
 
 **Names:**Charan , Raghavendra , Sabir , Sumit 
  
