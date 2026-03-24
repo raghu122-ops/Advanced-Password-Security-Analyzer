@@ -1,6 +1,6 @@
 # Project Report: Advanced Password Security Analyzer
 
-**Names:**Charan , Raghavendra , Sabir , Sumit 
+**Names:**Charan , Raghavendra , Sabir , Ravi 
  
 **Role:** Cybersecurity Interns
 
